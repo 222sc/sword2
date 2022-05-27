@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medieval Sword Oakeshott Type XI
+* source:	https://sketchfab.com/3d-models/medieval-sword-oakeshott-type-xi-88844a7a2c874183909f33fb2264e7fb
+* author:	leeeck (https://sketchfab.com/leeeck)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medieval Sword Oakeshott Type XI" (https://sketchfab.com/3d-models/medieval-sword-oakeshott-type-xi-88844a7a2c874183909f33fb2264e7fb) by leeeck (https://sketchfab.com/leeeck) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
